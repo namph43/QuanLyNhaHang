@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v2ke5BVs3g9s+KxCVgTdHErgUWOjV+xkDuNKDQG2fO6HT852KsDbud5vQPPanrYjM9pe2bbWXshNGicYRunc2Q==",
+  "dgSpecHash": "NUSwJHhvapG4AJpE+eMLNGcRthqovO0VK4WdrQ1rUVWFFpL/KQfhDKPCX4gadxjSpwS5LSimprUzRYNdPavhOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\QuanLyNhaHang\\WebAPIs\\QLNH_APIs\\QLNH_APIs\\QLNH_APIs.csproj",
+  "projectFilePath": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\nampham\\QuanLyNhaHang\\WebAPIs\\QLNH_APIs\\QLNH_APIs\\QLNH_APIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThinkPad\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
