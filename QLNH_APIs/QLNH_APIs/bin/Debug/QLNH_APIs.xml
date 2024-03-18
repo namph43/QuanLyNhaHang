@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QLNH_APIs</name>
+    </assembly>
+    <members>
+        <member name="M:QLNH_APIs.Controllers.RoleController.Get">
+            <summary>
+            Lấy tất cả danh sách Roles
+            </summary>
+            <returns>Danh sách Roles</returns>
+        </member>
+        <member name="M:QLNH_APIs.Controllers.RoleController.Get(System.Int32)">
+            <summary>
+            Lấy Role với Id
+            </summary>
+            <returns>Danh sách Role</returns>
+            <param name="Id">Tham số là Id của Role</param>
+        </member>
+        <member name="M:QLNH_APIs.Controllers.RoleController.Post(QLNH_APIs.Models.Role)">
+            <summary>
+            Thêm Role mới
+            </summary>
+            <returns>Role</returns>
+        </member>
+    </members>
+</doc>
