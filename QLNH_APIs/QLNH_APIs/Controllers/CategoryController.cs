@@ -8,6 +8,7 @@ namespace QLNH_APIs.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //category
     public class CategoryController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

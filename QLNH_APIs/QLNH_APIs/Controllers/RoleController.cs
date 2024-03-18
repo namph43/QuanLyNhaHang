@@ -26,6 +26,7 @@ namespace QLNH_APIs.Controllers
             return _context.Role.ToList();
         }
 
+
         /// <summary>
         /// Lấy Role với Id
         /// </summary>
